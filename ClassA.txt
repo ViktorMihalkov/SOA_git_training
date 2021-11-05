@@ -1,5 +1,5 @@
 num :INPUT “Enter a number”
 IF num MOD 2 ===0
-    print “Even Number”
+    print “Even Numbe!r”
 ELSE
     print “Odd Number + Evem Number”
