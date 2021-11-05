@@ -5,10 +5,5 @@ IF age is equal to 18 THEN
 ELSE IF age is greater than 18
     PRINT “Give entry”
 ELSE
-    PRINT “under age”
+    PRINT “under age!!!”
 ENDIF
-
-
-
-
-ЛЕЛЕ ТУКА ИМА ПРОМЕНИ!!!! БууМ!
