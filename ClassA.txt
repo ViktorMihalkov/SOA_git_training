@@ -1,8 +1,7 @@
 num :INPUT “Enter a number”
 IF num MOD 2 ===0
-    print “Even Number”
-ElSE IF
-	Poppy and Branch
+
+    print “This is an Even Number!”
 ELSE
     print “Odd Number + Evem Number”
 
