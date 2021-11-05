@@ -7,3 +7,8 @@ ELSE IF age is greater than 18
 ELSE
     PRINT “under age”
 ENDIF
+
+
+
+
+ЛЕЛЕ ТУКА ИМА ПРОМЕНИ!!!! БууМ!
