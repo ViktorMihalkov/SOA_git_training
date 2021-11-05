@@ -1,0 +1,9 @@
+age = INPUT : “Enter Your age”
+
+IF age is equal to 18 THEN
+    PRINT “under check”
+ELSE IF age is greater than 18
+    PRINT “Give entry”
+ELSE
+    PRINT “under age”
+ENDIF
