@@ -3,8 +3,6 @@ IF num MOD 2 ===0
 
     print “This is an Even Number!”
 ELSE
+    print “Odd Number”
     print “Odd Number + Evem Number”
-
-
-
-ИСКАМ ДА МАЧКАМ ТЕСТОВЕ!!!
+END
